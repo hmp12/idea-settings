@@ -13,6 +13,31 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.aegamesi.java_visualizer.plugin">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.haulmont.jpab">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.intellij.properties" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.intellij.plugins.vscodekeymap">
           <value>
             <PluginData>
@@ -53,6 +78,18 @@
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="mobi.hsz.idea.gitignore">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.vcs" />
                 </set>
               </option>
             </PluginData>
